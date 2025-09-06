@@ -1,4 +1,7 @@
-
+*{
+    margin: 0px;
+    padding: 0px;
+}
 body{
     background-color: rgb(230, 176, 197);
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkKBrxV_bPK9v29zf3k-5Dx23dPqfzInmKuRflK3x0MyGPwb4OM9YO9HaoxXAaYk1a6M&usqp=CAU);
