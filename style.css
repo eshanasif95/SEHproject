@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(230, 176, 197);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvkKBrxV_bPK9v29zf3k-5Dx23dPqfzInmKuRflK3x0MyGPwb4OM9YO9HaoxXAaYk1a6M&usqp=CAU);
+    background-size: contain;
+}
+h1{
+ text-align: center;
+ color: bisque;
+ 
+ 
+
+
+}
+#intro{
+    background-color: rgba(99, 96, 2, 0.367);
+    box-sizing: border-box;
+    width: 450px;
+    background-color: lavenderblush;
+    box-shadow: 0px 0px 1px 2px ;
+   margin-left: 570px;
+   padding-left: 80px;
+    
+}
+#social{
+
+ background-color: rgba(99, 96, 2, 0.367);
+    box-sizing: border-box;
+    width: 450px;
+    background-color: lightpink;
+    box-shadow: 0px 0px 1px 2px ;
+    margin-left: 570px;
+    padding-left: 80px;
+
+
+}
+img{
+    width: 300px;
+    margin-bottom: 700px;
+    margin-left: 200px;
+    border-radius: 10%;
+    margin-top: 220px;
+    box-shadow: 6px 6px 2px black;
+
+
+}
